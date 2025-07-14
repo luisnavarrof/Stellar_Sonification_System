@@ -41,6 +41,7 @@ pip install numpy pandas astroquery astropy pretty_midi pygame
 
 ## 🙋‍♂️ Author
 Developed by Luis (GitHub: @luisnavarrof)
+
 ✉️ luis.navarrof@usm.cl
 
 ## 📄 License
