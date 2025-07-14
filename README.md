@@ -39,9 +39,9 @@ Install required Python packages:
 pip install numpy pandas astroquery astropy pretty_midi pygame
 ```
 
-🙋‍♂️ Author
+## 🙋‍♂️ Author
 Developed by Luis (GitHub: @luisnavarrof)
 ✉️ luis.navarrof@usm.cl
 
-📄 License
+## 📄 License
 This project is licensed under the MIT License. Feel free to use, modify, and expand upon it — just provide attribution where appropriate.
