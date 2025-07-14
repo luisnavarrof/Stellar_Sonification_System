@@ -33,17 +33,15 @@ python Stellar_Sonification_System.py
 # Output: lesath_sonification.mid
 ```
 
-## Future Directions
-- Interactive app with a star map interface
-
-- Sonification of star clusters or full constellations
-
-- Integration with real-time or streaming telescope data
-
-- 🎛User-controlled mapping rules and custom scales
-
 ## Dependencies
 Install required Python packages:
 ```bash
 pip install numpy pandas astroquery astropy pretty_midi pygame
 ```
+
+## 🙋‍♂️ Author
+Developed by Luis (GitHub: @luisnavarrof)
+✉️ luis.navarrof@usm.cl
+
+## 📄 License
+This project is licensed under the MIT License. Feel free to use, modify, and expand upon it — just provide attribution where appropriate.
