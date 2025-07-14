@@ -29,8 +29,8 @@ This tool serves both creative and pedagogical purposes, bridging astronomy and 
 
 ```bash
 # Set the target star inside the script (e.g., "target = 'Lesath'")
-python generate_stellar_symphony.py
-# Output: lesath_enhanced_stellar_symphony.mid
+python Stellar_Sonification_System.py
+# Output: lesath_sonification.mid
 ```
 
 ## Future Directions
